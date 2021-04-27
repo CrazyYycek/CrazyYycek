@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrazyYycek
+- 👋 Hi, I’m @CrazyYycek (Vladimír)
 - 👀 I am interested in programming PLC, HMI, c # and LUA languages
 - 🌱 I am currently improving in programming C ++ and OOP languages such as c # and java.
 - 💞️ I am looking for cooperation on my projects for large companies.
